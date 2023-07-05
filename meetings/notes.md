@@ -1,4 +1,0 @@
-# notes
-
-- Curry–Howard isomorphism
-
