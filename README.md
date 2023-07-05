@@ -4,6 +4,8 @@
 
 [markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 
+[vscode markdown to pdf](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) (for concatenating markdown files for preview)
+
 ## blogpost
 
 [blogpost](blogpost.md)
