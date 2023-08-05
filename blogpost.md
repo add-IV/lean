@@ -8,7 +8,7 @@
 
 ## 2. Why do we use Theorem Provers?
 
-:[Why do we use Theorem Prover](blogpost/why-do-we-use-theorem-prover.md)
+:[Why do we use Theorem Provers](blogpost/why-do-we-use-theorem-provers.md)
 
 ## 3. Small History of Theorem Provers
 
