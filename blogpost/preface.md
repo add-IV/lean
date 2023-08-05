@@ -1,0 +1,3 @@
+Starting our project, we embarked on our journey with the Natural Number Game (NNG) to learn about the syntax of Lean 3. We also explored the beta version of the NNG for Lean 4 to compare different versions and we delved into the German Lean game "Formaloversum" to gain new insights. 
+
+Additionally, we read into the Lean manual and got curious about the benefits of type theory in theorem proving. Motivated by the foundations of the NNG, we made the decision to create our own mini tutorial world in Lean 4. With some effort, we successfully developed the tutorial and launched the game on a self-hosted web server.
