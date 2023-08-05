@@ -38,4 +38,4 @@
 
 ## 6. Outro
 
-:[outro](blogpost/outro.md
+:[outro](blogpost/outro.md)
