@@ -1,10 +1,12 @@
 # Seminar Lean
 
+:[Our HEGL Lean Project](blogpost/preface.md)
+
 ## 1. What is a Theorem Prover?
 
 :[What is a Theorem Prover](blogpost/what-is-a-theorem-prover.md)
 
-## 2. Why do we use Theorem Prover?
+## 2. Why do we use Theorem Provers?
 
 :[Why do we use Theorem Prover](blogpost/why-do-we-use-theorem-prover.md)
 
@@ -16,13 +18,17 @@
 
 :[What is Lean](blogpost/what-is-lean.md)
 
-## 5. Applications
+## 5. The Importance of Type Theory
 
-### 5.1 Lean in Mathematics
+:[The Importance of Type Theory](blogpost/typetheory.md)
+
+## 6. Applications
+
+### 6.1 Lean in Mathematics
 
 :[lean in mathematics](blogpost/applications/mathematics.md)
 
-### 5.2 Lean in Computer Science
+### 6.2 Lean in Computer Science
 
 :[lean in computer science](blogpost/applications/computer-science.md)
 
@@ -32,4 +38,4 @@
 
 ## 6. Outro
 
-:[outro](blogpost/outro.md)
+:[outro](blogpost/outro.md
