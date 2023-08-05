@@ -32,10 +32,10 @@
 
 :[lean in computer science](blogpost/applications/computer-science.md)
 
-### 5.3 Lean in Teaching
+### 6.3 Lean in Teaching
 
 :[lean in teaching](blogpost/applications/teaching.md)
 
-## 6. Outro
+## 7. Outro
 
 :[outro](blogpost/outro.md)
